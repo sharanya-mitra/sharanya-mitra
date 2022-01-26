@@ -26,9 +26,4 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-mad-lab&&layout=compact&hide=shell&theme=jolly"/> 
 </div>
  <br>
-=======
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rick-mad-lab&show_icons=true&locale=en&layout=compact" alt="rick-mad-lab" /></p>
-
-![enter image description here](https://github-readme-stats.vercel.app/api?username=Rick-mad-lab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
