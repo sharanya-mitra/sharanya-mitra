@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rick-mad-lab&label=Profile%20views&color=0e75b6&style=flat" alt="rick-mad-lab" /> </p>
 
-- 📫 How to reach me **sharanyamitra28@gmail.com**
+ 📫 How to reach me **sharanyamitra28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
