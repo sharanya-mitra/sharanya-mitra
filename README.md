@@ -21,7 +21,6 @@
 - 🇮🇳 Hindi
 - 🇮🇳 Bengali
 <hr>
-
 [![Sharanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rick-mad-lab&theme=xcode)](https://git.io/Rick-mad-lab)
 <br />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rick-mad-lab&theme=dark)](https://git.io/streak-stats)
