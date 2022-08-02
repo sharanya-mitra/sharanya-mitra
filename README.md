@@ -28,7 +28,7 @@
 
 [![Sharanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Rick-mad-lab&theme=xcode)](https://git.io/Rick-mad-lab)
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rick-mad-lab&theme=dark)](https://git.io/streak-stats)
+
 <h1>Knowledge Statistics</h1>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rick-mad-lab&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-mad-lab&&layout=compact&hide=shell&theme=jolly"/> 
