@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rick-mad-lab&label=Profile%20views&color=0e75b6&style=flat" alt="rick-mad-lab" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A3F700&background=FFFFFF00&lines=Love+to+Open+Source;Enthusiastic+in+Blockchain+Development;Enthusiastic+in+Full+Stack+Development;Love+to+do+IOT+Development+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=A3F600&background=FFFFFF00&lines=Love+to+Open+Source;Enthusiastic+in+Blockchain+Development;Enthusiastic+in+Full+Stack+Development;Love+to+do+IOT+Development+)](https://git.io/typing-svg)
 
  📫 How to reach me **sharanyamitra28@gmail.com**
 
