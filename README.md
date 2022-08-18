@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanya Mitra</h1>
 <h3 align="center">Full Stack IOT Blockchain Machine Learning</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Rick-mad-lab/Rick-mad-lab/f0993423ef8e286609b28ce76622432811bf1c96/working-with-laptop-1751979-0.svg" height="160px"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Rick-mad-lab/Rick-mad-lab/f0993423ef8e286609b28ce76622432811bf1c96/working-with-laptop-1751979-0.svg" height="200px"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rick-mad-lab&label=Profile%20views&color=0e75b6&style=flat" alt="rick-mad-lab" /> </p>
 
