@@ -26,6 +26,12 @@
 - 🇺🇸 English
 - 🇮🇳 Hindi
 - 🇮🇳 Bengali
+
+<hr>
+<h1 align="center">Join My Community</h1>
+<a href="https://hackbeatsorg.bio.link" target="blank"><p align="center"> <img src="https://avatars.githubusercontent.com/u/104215012?s=400&u=6038d1c64ba3d94fbaad0c78cea5b165a47465bd&v=4" height="100px"></p>
+ <h3 align="center">Hack Beats<h3>
+</a>
 <hr>
 
 [![Sharanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sharanya-mitra&theme=xcode)](https://git.io/sharanya-mitra)
