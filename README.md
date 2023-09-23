@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharanya Mitra</h1>
-<h3 align="center">(Full Stack Mobile & Web) (IOT) (Blockchain) (Machine Learning) (DevOps)</h3>
+<h3 align="center">(Indie Game Dev PC & Web) (IOT) (Blockchain) (Machine Learning) (DevOps(Unity))</h3>
 
 <p align="center"> <img src="https://raw.githubusercontent.com/sharanya-mitra/sharanya-mitra/f0993423ef8e286609b28ce76622432811bf1c96/working-with-laptop-1751979-0.svg" height="200px"></p>
 
