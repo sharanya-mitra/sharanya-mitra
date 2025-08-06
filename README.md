@@ -43,5 +43,4 @@
 </div>
  <br>
  
- 
-[![@rick_19's Holopin board](https://holopin.io/api/user/board?user=rick_19)](https://holopin.io/@rick_19)
+
