@@ -34,9 +34,6 @@
 </a>
 <hr> -->
 
-[![Sharanya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sharanya-mitra&theme=xcode)](https://git.io/sharanya-mitra)
-<br />
-
 <h1>Knowledge Statistics</h1>
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=sharanya-mitra&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanya-mitra&&layout=compact&hide=shell&theme=jolly"/> 
