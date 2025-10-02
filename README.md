@@ -32,6 +32,7 @@
 <a href="https://hackbeatsorg.bio.link" target="blank"><p align="center"> <img src="https://avatars.githubusercontent.com/u/104215012?s=400&u=6038d1c64ba3d94fbaad0c78cea5b165a47465bd&v=4" height="100px"></p>
  <h3 align="center">Hack Beats<h3>
 </a>
+https://prathama-beauty-aesthetics.odoo.com/pos_customer_display/1/fecc2416-de29-4482-8b28-51fa0c06902f
 <hr> -->
 
 <h1>Knowledge Statistics</h1>
